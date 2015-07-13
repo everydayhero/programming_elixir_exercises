@@ -1,0 +1,7 @@
+If you assume the variable a initially contains the value 2, which of the following will match?
+– [a,b,a]=[1,2,3] - No
+– [a,b,a]=[1,1,2] - No
+– a=1 - Yes
+– ^a = 2 - Yes
+– ^a = 1 - No
+– ^a=2-a - No
